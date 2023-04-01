@@ -9,6 +9,9 @@
 .navbar-brand{
   margin-left:0px;
 }
+.navbar-toggler{
+  font-size:0.8rem;
+}
 .logo{
   float: left;
   width:10%;
